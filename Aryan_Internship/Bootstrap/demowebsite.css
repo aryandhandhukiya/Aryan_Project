@@ -1,0 +1,49 @@
+.container-fluid{
+    text-align: center;
+    min-width: 500px;
+}
+.box-1{
+    min-height: 250px;
+    background-color: aquamarine;
+}
+.box-2{
+    min-height: 250px;
+    background-color: orange;
+}
+.box-3{
+    min-height: 250px;
+    background-color: cyan;
+}
+.box-4{
+    min-height: 250px;
+    background-color: pink;
+}
+.footer{
+    background-color: bisque;
+    color: black;
+    font-family: sans;
+    padding: 10px;
+}
+nav{
+    display:flex;
+    position: relative;
+    text-align: left;
+}
+nav ul {
+	display: flex;
+    padding-left: 600px;
+    padding-top: 25px;
+}
+nav ul li{
+	font-size: 25px;
+	padding: 2px 17px;
+	letter-spacing: 2px;
+    list-style: none;
+}	
+nav ul li a{
+	text-decoration: none;
+	color:white;
+	font-family: 'calibri';
+	position: relative;
+}
+

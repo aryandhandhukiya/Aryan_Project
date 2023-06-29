@@ -1,0 +1,26 @@
+.container{
+    border:5px solid green;
+}
+
+.row{
+    border: 10px solid skyblue;
+}
+
+.box-1{
+    background-color: yellow;
+    font-size: 18px;
+}
+
+.box-2{
+    background-color: pink;
+    font-size: 10px;
+}
+
+.box-3{
+    background-color: orange;
+    font-size: 13px;
+}
+
+.box-4{
+    background-color: red;
+}

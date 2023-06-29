@@ -1,0 +1,24 @@
+.container{
+    border:10px solid blue;
+}
+.box-1{
+    min-height: 250px;
+    background-color: aquamarine;
+    text-align: center;
+}
+.box-2{
+    min-height: 250px;
+    background-color: orange;
+    text-align: center;
+}
+.box-3{
+    min-height: 250px;
+    background-color: cyan;
+    text-align: center;
+}
+.box-4{
+    min-height: 250px;
+    background-color: pink;
+    text-align: center;
+}
+
